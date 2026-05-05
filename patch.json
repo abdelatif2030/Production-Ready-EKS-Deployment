@@ -1,0 +1,8 @@
+{
+  "spec": {
+    "selector": {
+      "app": "nginx",
+      "version": "green"
+    }
+  }
+}
