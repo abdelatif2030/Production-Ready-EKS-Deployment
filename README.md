@@ -63,7 +63,11 @@ The project uses Blue/Green deployment to ensure safe production releases:
 
 A fully functional cloud-native deployment system with safe deployment strategies, traffic management, and scalable infrastructure on AWS EKS.
 
-Author: Abdelatef Mohamed  
-Role: Cloud & DevOps Engineer  
-Location: Egypt  
-Focus: AWS | Kubernetes | CI/CD | Infrastructure Automation  
+## 👤 Author
+
+**Abdelatef Mohamed**  
+Cloud & DevOps Engineer  
+
+🌍 Based in Egypt  
+☁️ Specializing in AWS, Kubernetes, CI/CD, and Infrastructure Automation  
+⚙️ Focused on building scalable, production-ready cloud systems  
